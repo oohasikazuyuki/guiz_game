@@ -1,15 +1,15 @@
 const quizList = [
     {
-        question: '日本の首都はどこですか？',
-        answer: '東京',
+        question: '神奈川県の知事は',
+        answer: '黒岩さん',
     },
     {
-        question: 'アメリカの大統領は誰ですか？',
-        answer: 'ジョー・バイデン',
+        question: '世界最大の原子力空母は？',
+        answer: 'ジェラルト・R・フォート級原子力空母',
     },
     {
-        question: '1+1は何ですか？',
-        answer: '2',
+        question: '日本の中で歴代最長で総理大臣を行った人は誰？',
+        answer: '安倍晋三',
     },
     {
         question: '日本語で「ありがとう」とは何ですか？',
